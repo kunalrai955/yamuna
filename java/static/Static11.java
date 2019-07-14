@@ -11,6 +11,8 @@ System.out.println(a);
 		System.out.println(a);
 		m1(30);
 		System.out.println(a);
+System.out.println("hello");
+System.out.println("hi");
 	}
 }
 //Here 30 replaced with 0 as static variable by default 0
